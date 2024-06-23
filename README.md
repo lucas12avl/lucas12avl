@@ -46,12 +46,22 @@ Now i'm looking for new challenges and technologies to learn and grow as a compu
 <img align="left" alt="Clion" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg"/>
 <img align="left" alt="SQLdeveloper" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
 
+<br/><br/>  
+
 ### 🔗 Contact with me 
-https://www.instagram.com/images/instagram/xig/ico/xxhdpi_launcher.png?__d=www
-<a href="https://www.instagram.com/lucas12avl/"
+<!--
+<a href="https://www.instagram.com/lucas12avl/">
 <img align="left" alt="Instagram" width="30px" style="padding-right:10px;" src="https://www.instagram.com/images/instagram/xig/ico/xxhdpi_launcher.png?__d=www"/>
 </a>
+<a href="www.linkedin.com/in/lucas-dalmau-garcés">
+<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://static.licdn.com/aero-v1/sc/h/3loy7tajf3n0cho89wgg0fjre"/>
+</a>
 
+<a href="mailto:lucasdalmau03@gmail.com">
+<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="[https://th.bing.com/th/id/OIP.yX_XItPvy8e_UEbhnQxNjgHaEK?rs=1&pid=ImgDetMain](https://th.bing.com/th?id=ODLS.112e55dc-4008-476c-bb39-88b4f8adb808&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2)"/>
+</a>
+
+-->
 
      
 <br/><br/>    
