@@ -1,12 +1,12 @@
 
 # 💻lucas12avl
 
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=lucas12avl&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=lucas12avl&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
-</a>
+**`Lucas Dalmau (third-year computer engineering)`** <br/>
+I'm a third-year computer engineering student focusing on information technology, eager to keep learning and growing in this fascinating world of coding and tech. <br/>
+From a young age, I've been passionate about technology and curious about the latest inventions. ✨ <br/>
+Now i'm looking for new challenges and technologies to learn and grow as a computer engineer 💻📚
+
+
 
 
 ### 🧰 Languages & technologies
@@ -46,16 +46,16 @@
 <img align="left" alt="Clion" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg"/>
 <img align="left" alt="SQLdeveloper" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
 
-          
-
-          
-          
+     
 <br/><br/>    
-          
-          
-          
-
-
+        
+### 📊 Stats
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=lucas12avl&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=lucas12avl&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
 
 
 
@@ -67,9 +67,5 @@
 </p>
 
 
-**`Lucas Dalmau (third-year computer engineering)`** <br/>
-I'm a third-year computer engineering student focusing on information technology, eager to keep learning and growing in this fascinating world of coding and tech. <br/>
-From a young age, I've been passionate about technology and curious about the latest inventions. ✨ <br/>
-Now i'm looking for new challenges and technologies to learn and grow as a computer engineer 💻📚
 
 
