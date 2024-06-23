@@ -9,7 +9,7 @@ Now i'm looking for new challenges and technologies to learn and grow as a compu
 
 
 
-### 🧰 Languages & technologies
+### 🧰 Skills
 <!--backend--->
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
