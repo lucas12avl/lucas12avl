@@ -1,5 +1,5 @@
 
-# 💻lucas12avl <a href="https://www.instagram.com/lucas12avl/"> <img align="right" alt="Instagram" width="30px" style="padding-right:30px;" src="icons/instagram-svgrepo-com.svg"/></a><a href="www.linkedin.com/in/lucas-dalmau-garcés"><img align="right" alt="LinkedIn" width="30px" style="padding-right:10px;" src="icons/linkedin-1-svgrepo-com.svg"/></a> <a href="mailto:lucasdalmau03@gmail.com"><img align="right" alt="LinkedIn" width="30px" style="padding-right:10px;" src="icons/email-mail-svgrepo-com.svg"/></a>
+# 💻lucas12avl <a href="https://www.instagram.com/lucas12avl/"> <img align="right" alt="Instagram" width="30px" style="padding-right:30px;" src="icons/instagram-svgrepo-com.svg"/></a> <a href="https://www.linkedin.com/in/lucas-dalmau-garcés"><img align="right" alt="LinkedIn" width="30px" style="padding-right:10px;" src="icons/linkedin-1-svgrepo-com.svg"/></a> <a href="mailto:lucasdalmau03@gmail.com"><img align="right" alt="LinkedIn" width="30px" style="padding-right:10px;" src="icons/email-mail-svgrepo-com.svg"/></a>
 
 
 **`Lucas Dalmau (student)`** <br/>
