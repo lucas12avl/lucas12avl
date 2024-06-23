@@ -1,7 +1,7 @@
 
 # 💻lucas12avl
 
-**`Lucas Dalmau (third-year computer engineering)`** <br/>
+**`Lucas Dalmau (student)`** <br/>
 I'm a third-year computer engineering student focusing on information technology, eager to keep learning and growing in this fascinating world of coding and tech. <br/>
 From a young age, I've been passionate about technology and curious about the latest inventions. ✨ <br/>
 Now i'm looking for new challenges and technologies to learn and grow as a computer engineer 💻📚
