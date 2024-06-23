@@ -46,6 +46,13 @@ Now i'm looking for new challenges and technologies to learn and grow as a compu
 <img align="left" alt="Clion" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg"/>
 <img align="left" alt="SQLdeveloper" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
 
+### 🔗 Contact with me 
+https://www.instagram.com/images/instagram/xig/ico/xxhdpi_launcher.png?__d=www
+<a href="https://www.instagram.com/lucas12avl/"
+<img align="left" alt="Instagram" width="30px" style="padding-right:10px;" src="https://www.instagram.com/images/instagram/xig/ico/xxhdpi_launcher.png?__d=www"/>
+</a>
+
+
      
 <br/><br/>    
         
