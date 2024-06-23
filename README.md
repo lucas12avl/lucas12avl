@@ -1,5 +1,6 @@
 
-# 💻lucas12avl
+# 💻lucas12avl <a href="https://www.instagram.com/lucas12avl/"> <img align="right" alt="Instagram" width="30px" style="padding-right:30px;" src="icons/instagram-svgrepo-com.svg"/></a><a href="www.linkedin.com/in/lucas-dalmau-garcés"><img align="right" alt="LinkedIn" width="30px" style="padding-right:10px;" src="icons/linkedin-1-svgrepo-com.svg"/></a> <a href="mailto:lucasdalmau03@gmail.com"><img align="right" alt="LinkedIn" width="30px" style="padding-right:10px;" src="icons/email-mail-svgrepo-com.svg"/></a>
+
 
 **`Lucas Dalmau (student)`** <br/>
 I'm a third-year computer engineering student focusing on information technology, eager to keep learning and growing in this fascinating world of coding and tech. <br/>
@@ -46,21 +47,8 @@ Now i'm looking for new challenges and technologies to learn and grow as a compu
 <img align="left" alt="Clion" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg"/>
 <img align="left" alt="SQLdeveloper" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
 
-<br/><br/>  
 
-### 🔗 Contact with me 
 
-<a href="https://www.instagram.com/lucas12avl/">
-<img align="left" alt="Instagram" width="30px" style="padding-right:30px;" src="icons/instagram-svgrepo-com.svg"/>
-</a>
-
-<a href="www.linkedin.com/in/lucas-dalmau-garcés">
-<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="icons/linkedin-1-svgrepo-com.svg"/>
-</a>
-
-<a href="mailto:lucasdalmau03@gmail.com">
-<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="icons/email-mail-svgrepo-com.svg"/>
-</a>
 
     
 <br/><br/>    
